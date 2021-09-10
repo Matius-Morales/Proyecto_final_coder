@@ -1,0 +1,68 @@
+.copy {
+  color: black;
+}
+
+ol {
+  color: black;
+}
+
+.tituloContacto {
+  background-color: black;
+  color: white;
+}
+
+.titulo-form {
+  background-color: white;
+}
+
+select {
+  color: black;
+}
+
+.ubicacion_flex {
+  background-color: white;
+}
+
+p {
+  color: white;
+}
+
+h2 {
+  color: black;
+}
+
+.main-preguntas p {
+  color: black;
+}
+
+.titulo {
+  color: black;
+}
+
+.categortia {
+  color: var(#B8B8B8);
+}
+
+.categortia path {
+  fill: var(#B8B8B8);
+}
+
+.categortia .categoria.activa {
+  border: 2px solid var(#024227);
+  color: black;
+}
+
+.categortia .categoria.activa path {
+  fill: var(#024227);
+}
+
+.categoria:hover {
+  -webkit-box-shadow: var(0 0 13px 0 rgba(185, 185, 185, 0.25));
+          box-shadow: var(0 0 13px 0 rgba(185, 185, 185, 0.25));
+  color: black;
+}
+
+.categoria:hover path {
+  fill: var(#024227);
+}
+/*# sourceMappingURL=color.css.map */

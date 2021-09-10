@@ -1,0 +1,48 @@
+$negro: black ;
+$blanco: white;
+
+.copy{
+    color:$negro;
+}
+ol{
+    color:$negro;
+}
+.tituloContacto{
+    background-color: $negro;
+    color:$blanco;
+}
+.titulo-form{
+
+    background-color:$blanco;
+}
+
+select{
+   
+    color:$negro;
+}
+.ubicacion_flex{
+    background-color:$blanco;
+}
+p{
+    
+    color: $blanco;
+}
+h2{
+    color:$negro;
+}
+
+.main-preguntas{
+    p{
+        color:$negro;
+    }
+}
+.titulo {
+	color: $negro;
+}
+.categoria:hover {
+	color:$negro;
+}
+.categoria.activa {
+	color:$negro ;
+}
+
